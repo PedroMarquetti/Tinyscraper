@@ -1,2 +1,3 @@
 # Tinyscraper
- file fetcher for Android app "tinyscanner"
+ file fetcher/"web scraper" for Android app "tinyscanner"
+ 
