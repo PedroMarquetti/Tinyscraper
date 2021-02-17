@@ -2,10 +2,9 @@ from bs4 import BeautifulSoup as bs
 import requests as r
 
 url = "http://"+input("insert IP>>> ")+":10000" #base url
-# url = "http://192.168.0.101:10000" #base url
 documents = url+"/Documents" #available document folders    
 
-
+#begin
 def starter():
     """returns text of '/x ' folder
     https://www.kite.com/python/answers/how-to-get-href-links-from-urllib-urlopen-in-python
